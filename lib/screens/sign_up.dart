@@ -134,7 +134,6 @@ class _SignUpState extends State<SignUp> {
       );
       return false;
     }
-    
     return true;
   }
 }
