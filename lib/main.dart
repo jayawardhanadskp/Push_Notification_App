@@ -1,10 +1,6 @@
 import 'package:authentication_app/services/firebase_helper.dart';
 import 'package:authentication_app/services/notification_service.dart';
 import 'package:flutter/material.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'firebase_options.dart';
-
-import 'screens/sign_up.dart';
 
 
 late final Widget screen;
